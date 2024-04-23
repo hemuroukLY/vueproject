@@ -14,7 +14,7 @@
         </div>
     </div>
 </div>
-<div class="container">
+<div class="container"> 
         <div class="row  mt-5 ">
             <div class="col-md-12 ">
                 <img src="../assets/images/img-screens@2x.png" alt="second" class="img-fluid">
